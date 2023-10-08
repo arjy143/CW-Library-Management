@@ -1,0 +1,16 @@
+ID,Genre,Title,Author,Purchase_Date,Member_ID*
+1,Sci-fi,book1,author1,01-09-19,coad
+2,Sci-fi,book2,author2,01-09-19,coab
+3,Sci-fi,book3,author3,01-09-19,0
+4,Sci-fi,book4,author4,01-09-19,0
+5,Sci-fi,book5,author5,01-09-19,coac
+6,Horr,book6,author6,02-02-20,0
+7,Horr,book7,author7,02-02-20,coaa
+8,Horr,book8,author8,02-02-20,0
+9,Horr,book1,author9,02-02-20,0
+10,Horr,book10,author10,02-02-20,0
+11,Fant,book11,author11,08-08-18,coab 
+12,Fant,book12,author12,08-08-18,coac
+13,Fant,book13,author13,08-08-18,0
+14,Fant,book14,author14,08-08-18,0
+15,Fant,book15,author15,08-08-18,0
